@@ -70,10 +70,10 @@ def retrieve():
             with open("harry_food.txt") as op:
                 print(op.read())
         if a == 2:
-            with open("Rohan_food") as op:
+            with open("Rohan_food.txt") as op:
                 print(op.read())
         if a == 3:
-            with open("Shyam_ex.txt") as op:
+            with open("Shyam_food.txt") as op:
                 print(op.read())
 
 
